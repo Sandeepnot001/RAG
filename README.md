@@ -1,7 +1,7 @@
 # 🧠 Chat with Your Own Data – RAG-Based AI System
 
 ## 📌 Overview
-**Chat with Your Own Data** is a Retrieval-Augmented Generation (RAG) AI system that enables users to interact with their own documents or datasets. It combines large language models (LLMs) with a retrieval mechanism to generate accurate, context-aware, and explainable responses from user-provided data.
+**Chat with Your Own Data** is a Retrieval-Augmented Generation (RAG) AI system that enables users to interact with their own documents or datasets. It combines large language models (LLMs) with a retrieval mechanism to generate accurate, context-aware and explainable responses from user-provided data.
 
 Unlike a typical chatbot, this system is designed to integrate external knowledge for **scientific or research-based applications**, ensuring factual accuracy and structured reasoning.
 
